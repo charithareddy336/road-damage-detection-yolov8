@@ -90,3 +90,7 @@ Special thanks to:
 ## Conclusion
 
 This project demonstrates the application of deep learning and computer vision techniques for automated road damage detection. By leveraging YOLOv8 and Streamlit, the system provides an intuitive interface for detecting road defects from images, videos, and real-time camera feeds, making it a useful tool for infrastructure monitoring and road maintenance analysis.
+
+## Author
+
+Charitha Reddy
